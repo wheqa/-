@@ -1,3 +1,6 @@
+import streamlit as st
+import requests
+
 # requirements.txt
 streamlit
 requests
